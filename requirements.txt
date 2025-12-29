@@ -1,0 +1,21 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Frontend & Visualization
+streamlit
+plotly
+matplotlib
+seaborn
+imblearn
+lightgbm
+
+ipykernel
+neuralprophet
+fastai
+nbformat

@@ -1,5 +1,10 @@
 # Logistics Demand Forecasting Project
 
+![Dashboard Screenshot](https://github.com/Rishabh1108ch/Logistics-Demand-Forecasting-Using-Machine-Learning/blob/main/Process%20Flow%20Chart%20Demand%20Forecasting%20Project.png)
+
+
+
+
 ## Project Overview
 
 This project implements a **machine learning-based forecasting system** for logistics shipment demand. It predicts daily shipment volumes across different types (Air, Express, International, Surface) for multiple logistics companies, enabling data-driven operational planning.
